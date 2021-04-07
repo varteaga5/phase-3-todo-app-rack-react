@@ -12,7 +12,7 @@ You will able to see demo of the lab.
 
 - Currently, tasks are fetched from the `json` server. Create `Rack` server to provide tasks for the `react` app
 - Use `shotgun` command to start the `rack` server
-- Create `tasks` and `categories` tables and some seeds data to it
+- Create `tasks` and `categories` tables and some seeds data to it. Migration are already ready for you.
 - `category` has many `tasks`
 - `task` belongs to `category`
 - send `json` response back from the `rack` server
