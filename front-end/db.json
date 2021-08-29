@@ -1,11 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Buy rice",
-      "category": "Food"
-    },
-    {
       "id": 2,
       "text": "Save a tenner",
       "category": "Money"
@@ -39,6 +34,11 @@
       "text": "code",
       "category": "Code",
       "id": 8
+    },
+    {
+      "text": "reee",
+      "category": "Code",
+      "id": 9
     }
   ]
 }
